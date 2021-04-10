@@ -26,7 +26,4 @@ Import database store.sql.
 Open Your browser put inside URL:
 “http://localhost/store/”
 To Login as admin put inside URL:”http://localhost/store”
-
-Create and account and login
-
-
+Create an account and login
